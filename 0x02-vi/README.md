@@ -1,0 +1,1 @@
+Most common shorcuts for Vi editor. 
