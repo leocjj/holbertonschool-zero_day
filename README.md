@@ -5,4 +5,4 @@ The online repository is: [https://github.com/leocjj/holbertonschool-zero_day]
 Created by Leonardo Calderon[^1]
 
 [1]: https://github.com/leocjj/holbertonschool-zero_day
-[^1]: leocj@hotmail.com.
+[^1]: leocjj
